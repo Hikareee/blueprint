@@ -9,13 +9,13 @@ import { getAuth } from "@firebase/auth";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyAjUky_R24sQNyaS2C06mo-yhpV8QcndDc",
-  authDomain: "unihack-blueprint-app.firebaseapp.com",
-  projectId: "unihack-blueprint-app",
-  storageBucket: "unihack-blueprint-app.firebasestorage.app",
-  messagingSenderId: "34793971415",
-  appId: "1:34793971415:web:0fa68ca2ebabf100981a92",
-  measurementId: "G-GSYD14ZLNZ"
+  apiKey: "AIzaSyAyXrFv7nsRwFk-ytk2xjR8Jp52eKtwRs8",
+  authDomain: "blueprint-unihack-app.firebaseapp.com",
+  projectId: "blueprint-unihack-app",
+  storageBucket: "blueprint-unihack-app.firebasestorage.app",
+  messagingSenderId: "104107251973",
+  appId: "1:104107251973:web:2b392c8a310acdbeb3bf6c",
+  measurementId: "G-6RLV04CCD0"
 };
 
 // Initialize Firebase
